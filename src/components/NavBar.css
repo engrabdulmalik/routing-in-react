@@ -1,0 +1,31 @@
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-item-1 {
+  background-color: aqua;
+  padding: 10px;
+  flex: 25%;
+}
+
+.nav-item-2 {
+  background-color: rgb(0, 255, 132);
+  padding: 10px;
+  flex: 25%;
+}
+
+.nav-item-3 {
+  background-color: rgb(100, 9, 65);
+  padding: 10px;
+  flex: 25%;
+}
+
+.nav-item-4 {
+  background-color: rgb(209, 133, 40);
+  padding: 10px;
+  flex: 25%;
+}
